@@ -88,6 +88,8 @@ Demo Clip: [Database_12_clip.mov](https://drive.google.com/file/d/1W6suv2Xci0BXE
 
 Slides: [slides.pdf](https://drive.google.com/file/d/15USXTsj4WWtMqhDAQ5cRG975GW2RxqDX/view?usp=drive_link)
 
+Appsmith : [appsmith](https://app.appsmith.com/app/condo/login-67c45521e836f11c3fa21a68?branch=main)
+
 ## Tools
 - **MongoDB Atlas**: A fully-managed cloud database service for deploying, managing, and scaling MongoDB clusters. It serves as the backend database for storing application data securely and efficiently.
 - **Appsmith**: An open-source platform for building internal tools rapidly. Appsmith is utilized to create the application's user interface, enabling easy integration with MongoDB Atlas and other data sources.
@@ -95,3 +97,4 @@ Slides: [slides.pdf](https://drive.google.com/file/d/15USXTsj4WWtMqhDAQ5cRG975GW
 ##### You can visit the application using the below 
 
 ###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68/edit)
+
